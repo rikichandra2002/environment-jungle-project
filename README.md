@@ -36,8 +36,11 @@ cd server
 npm install
 npm start
 
-### 💻 Frontend
-cd admin
+#### 💻 Frontend
+bash
+Copy code
+cd client
 npm install
 npm run dev
+
 
