@@ -25,13 +25,7 @@ A full-stack MERN application to monitor environmental issues and support sustai
 
 ---
 
-## 📸 Screenshots
 
-> *(Insert screenshots here if available)*  
-> Example:
-> ![Dashboard Screenshot](./screenshots/dashboard.png)
-
----
 
 ## 🛠️ Installation
 
@@ -41,3 +35,9 @@ A full-stack MERN application to monitor environmental issues and support sustai
 cd server
 npm install
 npm start
+
+### 💻 Frontend
+cd admin
+npm install
+npm run dev
+
